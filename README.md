@@ -17,10 +17,10 @@ Features I have implemented
 * Basic CMD commands like
   * cd - Required to change Directory to necessary locations
     * Valid Command
-      * Markup : **cd {complete path of the desired file/folder location}**
+      * **cd {complete path of the desired file/folder location}**
   * mkdir - make Directory if need in that location
     * Valid Command
-      * Markup : **mkdir {name of the folder/directory needs to be created}**
+      *  **mkdir {name of the folder/directory needs to be created}**
   * ipconfig
   * dir - List all files / Directories present in that location
   * pwd
@@ -34,8 +34,8 @@ Features I have implemented
       *  git add .
 * Git Commit - Commits all changes it also shows "Working Tree Clean" if no data was changed
   * Valid Commands
-    * git commit -u -m  Markup : *Message*  -  Markup : **Without Double Coats**
-    * git commit -u  Markup : *z*  -  Markup : **Only used when there is no commit message**
+    * git commit -u -m   *Message*  -  **Without Double Coats**
+    * git commit -u  *z*  -  **Only used when there is no commit message**
 
 
 
@@ -44,7 +44,7 @@ Programming language used - `JAVA`
 
 Technologies used - `JAVA` `Core Java Concepts` `File Handeling` and `SHA-1`
 
-Markup : **Only availabe for Windows and Linux Users**.
+ **Only availabe for Windows and Linux Users**.
 
 Files adding soon
 
