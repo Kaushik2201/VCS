@@ -34,8 +34,8 @@ Features I have implemented
       *  git add .
 * Git Commit - Commits all changes it also shows "Working Tree Clean" if no data was changed
   * Valid Commands
-    * git commit -u -m   *Message*  -  **Without Double Coats**
-    * git commit -u  *z*  -  **Only used when there is no commit message**
+    * git commit -u -m   *Message*   ->  **Without Double Coats**
+    * git commit -u  *z*   ->  **Only used when there is no commit message**
 
 
 
