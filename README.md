@@ -36,6 +36,7 @@ Features I have implemented
   * Valid Commands
     * git commit -u -m   *Message*   ->  **Without Double Coats**
     * git commit -u  *z*   ->  **Only used when there is no commit message**
+    * git commit **File Name** -m *Message*
 
 
 
